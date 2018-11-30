@@ -1,5 +1,5 @@
-# CDBLC
-Configuration/Diagnosis Benchmarks Library in Choco
+# CDBC
+Configuration/Diagnosis Benchmark in Choco
 
 Knowledge base and datasets as configuration or diagnosis problems:
 1- Knowledge Bases:
